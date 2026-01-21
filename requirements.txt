@@ -1,0 +1,7 @@
+torch>=2.5.0
+diffusers>=0.27.0
+transformers>=4.40.0
+accelerate>=0.27.0
+safetensors
+streamlit
+Pillow
